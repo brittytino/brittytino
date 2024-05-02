@@ -9,7 +9,7 @@
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Tino+Britty)](https://github.com/brittytino) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBF7F4&random=false&width=435&lines=I'm+Full Stack+Developer+Web+Dev+%26+App+Dev;I'm+Currently+Learning...;Python%2C+Next.js%2C+Flutter+%26+C%23;Don't+Forget+to+Follow+Me)](https://github.com/brittytino)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBF7F4&random=false&width=435&lines=I'm+Full+Stack+Developer;I'm+Currently+Learning...;Frameworks%2C+Next.js%2C+Flutter+%26+C%23;Don't+Forget+to+Follow+Me)](https://github.com/brittytino)
 <br/>
 <br/>
 <a target="_blank">
