@@ -136,7 +136,6 @@
 
 ![footer](PNG/footer.png)
 
-![Snake animation](https://github.com/brittytino/brittytino/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 brittytino/brittytino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
