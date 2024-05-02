@@ -130,13 +130,13 @@
   </a> &nbsp;&nbsp;
 </p>
 <br/>
-![Snake animation](https://github.com/brittytino/brittytino/blob/output/github-contribution-grid-snake.svg)
 
 <h4 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</h4>
 <br/>
 
 ![footer](PNG/footer.png)
 
+![Snake animation](https://github.com/brittytino/brittytino/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 brittytino/brittytino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
