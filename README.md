@@ -35,8 +35,8 @@
 
 ### Roadmap 2024 :
 
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `WEb Design` <br>
-📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` | `SQL` <br>
+✍️ - **Current Stack:** `HTML5` | `CSS3` | `JavaScript` | `React` <br>
+📚 - **Learning:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Tailwind` | `Bootstrap` <br>
 
 <br>
 <br>
@@ -45,7 +45,7 @@
 <a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
 </div>
 
-### My stack and tools :
+### My Stack and tools Currently Using :
 
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
