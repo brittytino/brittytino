@@ -16,15 +16,13 @@
   <img align="right" style="margin-right:30px;" width="240" alt="GIF" src="GIF/error.gif">
 </a>
 
-- 😂 Yes, 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying
-- 👀 I’m interested in Web Designing & Development
-- 🌱 I’m currently learning Python, Next.js, Flutter & C#
-- 💞 I’m looking to collaborate on ...
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 Designing & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, Mobile App Development**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/brittytino/brittytino/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I'm still a newbie**
-- 📫 How to reach me: Telegram - [@brittytino](https://t.me/brittytino)
+- My primary interest lies in Web Designing & Development. 💻
+- I am presently engaged in learning Python, Next.js, Flutter, and C#. 📚
+- I am seeking opportunities to collaborate on Web Designing, Development, and Mobile App Development. 🤝
+- For inquiries, please feel free to reach out to me via [this link](https://github.com/brittytino/brittytino/issues). I am happy to assist. 💬
+- Pronouns: He/Him/His. 🚹
+- Fun fact: I consider myself a novice in the field. 😄
+- Contact: You can contact me via Instagram - [@brittytino](https://www.instagram.com/brittytino/). 📲
 
 <br/>
 <br/>
