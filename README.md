@@ -42,7 +42,7 @@
 <br>
 
 <div align="center">
-<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/brittytino"><img src="https://u8views.com/api/v1/github/profiles/153193545/views/day-week-month-total-count.svg"></a>
 </div>
 
 ### My Stack and tools Currently Using :
