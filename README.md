@@ -17,7 +17,7 @@
 </a>
 
 - My primary interest lies in Web Designing & Development. 💻
-- I am presently engaged in learning Python, Next.js, Flutter, and C#. 📚
+- I am presently engaged in learning Dynamic Programming. 📚
 - I am seeking opportunities to collaborate on Web Designing, Development, and Mobile App Development. 🤝
 - For inquiries, please feel free to reach out to me via [this link](https://github.com/brittytino/brittytino/issues). I am happy to assist. 💬
 - Pronouns: He/Him/His. 🚹
