@@ -1,35 +1,35 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/GIF/Earth.gif" width="80" />
-  <h1>Hello, Open Source Enthusiasts!</h1>
+  <h1>Hello, Open Source Cuties! 💖</h1>
   <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/GIF/Hi.gif" width="80" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=32&center=true&width=600&height=60&lines=I'm+Tino+Britty;Full+Stack+Developer;Open+Source+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=I'm+Tino+Britty;Full+Stack+Developer;Open+Source+Advocate" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/GIF/error.gif" width="240" alt="Error GIF" />
+  <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/GIF/cute-cat.gif" width="240" alt="Cute Cat GIF" />
 </div>
 
-- 🌐 My primary interest lies in Web Designing & Development
+- 🌸 My primary interest lies in crafting cute and user-friendly websites
 - 📚 Currently learning Dynamic Programming and Open Source best practices
-- 🤝 Looking to collaborate on Web, Mobile App, and Open Source projects
+- 🌱 Looking to collaborate on fun, creative, and Open Source projects
 - 💬 Feel free to open an [issue](https://github.com/brittytino/brittytino/issues) for any inquiries
-- 🚹 Pronouns: He/Him/His
-- 😄 Fun fact: I consider myself a perpetual learner in the ever-evolving tech world
-- 📲 Contact me on Instagram: [@brittytino](https://www.instagram.com/brittytino/)
+- 🧸 Pronouns: He/Him/His
+- 🌈 Fun fact: I love adding cute and playful elements to my projects
+- 📲 Let's connect on Instagram: [@brittytino](https://www.instagram.com/brittytino/)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brittytino&style=flat&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/brittytino?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/brittytino?label=Stars" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=brittytino&style=flat&color=FF69B4" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/brittytino?label=Followers&style=flat&color=FF69B4" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/brittytino?label=Stars&style=flat&color=FF69B4" alt="Total Stars" />
 </div>
 
 ### Roadmap 2024:
 
-- **Current Stack:** `HTML5` | `CSS3` | `JavaScript` | `React`
-- **Learning:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Tailwind` | `Bootstrap`
+- **Current Stack:** `HTML5` | `CSS3` | `JavaScript` | `React` 🦄
+- **Learning:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Tailwind` | `Bootstrap` 🌸
 
 <div align="center">
   <a href="https://u8views.com/github/brittytino"><img src="https://u8views.com/api/v1/github/profiles/153193545/views/day-week-month-total-count.svg" alt="GitHub Views" /></a>
@@ -52,21 +52,21 @@
 
 <p align="center">
   <a href="https://github.com/brittytino">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/brittytino">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittytino&layout=compact&langs_count=10&theme=dark&hide_border=true" alt="Top Languages" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittytino&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 </details>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=brittytino&no-frame=true&margin-w=10&margin-h=10&column=10&no-bg=true)](https://github.com/brittytino)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=brittytino&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=10&no-bg=true)](https://github.com/brittytino)
 
 <div align="center">
   <h1>
-    Connect With Me
+    Let's Connect! 🤗
     <a target="_blank">
-      <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/GIF/Handshake.gif" height="40" style="max-width:100%;" alt="Handshake GIF" />
+      <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/GIF/cute-wave.gif" height="40" style="max-width:100%;" alt="Waving GIF" />
     </a>
   </h1>
 
@@ -86,7 +86,7 @@
   </p>
 </div>
 
-<h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
+<h4 align="center">Show some 💗 by starring some of the repositories!</h4>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/PNG/footer.png" alt="Footer" />
