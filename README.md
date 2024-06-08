@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B6EE1&center=true&vCenter=true&width=435&lines=I'm+Tino+Britty;Full+Stack+Developer;Open+Source+Advocate" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/brittytino/brittytino/main/GIF/coding.gif" width="300" alt="Coding GIF" />
-</div>
 
 - 💻 Passionate about crafting elegant and user-friendly web experiences
 - 📚 Currently expanding knowledge in Dynamic Programming and Open Source practices
