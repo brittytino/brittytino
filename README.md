@@ -12,7 +12,6 @@
 - 🤝 Seeking collaborations on innovative and Open Source projects
 - 💬 Feel free to open an [issue](https://github.com/brittytino/brittytino/issues) for any inquiries
 - 🚻 Pronouns: He/Him/His
-- ⚡ Fun fact: I enjoy integrating sleek UI elements into my projects
 - 📧 Let's connect: [@brittytino](mailto:brittytino@example.com)
 
 <div align="center">
