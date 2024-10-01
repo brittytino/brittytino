@@ -1,3 +1,13 @@
+<h1 align="center">
+  <a target="_blank">
+    <img src="GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;Sneaky Developers/&gt;!
+  <a target="_blank">
+    <img src="GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
+
 # 💫 About Me:
 🔍 Exploring the Boundless Codebase<br>🤖 Always ready to debug, refactor, and deploy<br>🤝 Let’s collaborate on bleeding-edge Open Source and AI-driven projects<br>🚀 Open to any challenge that involves pushing the limits of code<br>💌 Ping me anytime at brittytino08@gmail.com for inquiries or geek-out sessions<br>🌐 Check out all my projects at tinobritty.tech<br>🎮 Need root access to my creativity? Let's SSH into my imagination on port 22!<br>⚡ Warning: Excessive interaction might result in a kernel panic of ideas!
 
