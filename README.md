@@ -13,13 +13,13 @@
 ---
 
 ## 🚀 About Me
-I’m a passionate **Full Stack Developer** with expertise spanning **frontend, backend, cloud, and digital marketing**.  
-Currently, I’m the **COO at Divine Infotech**, building solutions that bridge technology, education, and creativity.
+I’m a **Software Engineer** with expertise spanning **frontend, backend, cloud, and Apis**.  
+Currently, I’m pursuing my PG @ **PSG College of Technology**, building solutions that bridge technology, education, and creativity along with learning.
 
-- 🛠 Specializing in **Next.js, AWS, Flutter, and .NET Backend**
+- 🛠 Specializing in **Next.js, AWS, Effect Js, and Kafka / Frappee**
 - 🌍 Active in **hackathons, open-source projects, and AI-driven innovations**
-- 📈 Proven record in **business growth, product strategy, and student engagement**
-- 💡 Believer in “Code it, ship it, improve it” — **agility is my superpower**.
+- 📈 Proven record in **nothing but and easy interaction**
+- 💡 Believer in “Code it, ship it, improve it” — **vibe coding is my superpower**.
 
 ---
 
@@ -37,7 +37,7 @@ Currently, I’m the **COO at Divine Infotech**, building solutions that bridge 
 
 ## 🛠 Tech Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,nextjs,react,nodejs,flutter,aws,gcp,firebase,netlify,vercel,mongodb,postgres,redux,threejs,figma,canva,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,nextjs,react,nodejs,flutter,aws,gcp,firebase,netlify,vercel,mongodb,postgres,redux,threejs,figma,blender" />
 </p>
 
 ---
