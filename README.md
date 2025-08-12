@@ -50,13 +50,6 @@ Currently, I’m pursuing my PG @ **PSG College of Technology**, building soluti
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brittytino&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📌 Highlighted Projects
 - **🚀 [Portfolio Website](https://tinobritty.tech)** – Showcasing my work, skills, and impact
 - **📱 Mobile App for Gym Owners** – Cross-platform fitness management solution
