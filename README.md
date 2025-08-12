@@ -1,29 +1,28 @@
+<!-- Profile Banner -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/brittytino/GIF/main/Earth.gif" width="30px">
-  𝐇𝐞𝐲 𝐲𝐨, &lt;Sneaky Developers/&gt;!
-  <img src="https://raw.githubusercontent.com/brittytino/GIF/main/Hi.gif" width="45px" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello%2C+%3CSneaky+Developers%2F%3E!;I+am+Tino+Britty;Full+Stack+Developer+%26+Digital+Nomad;Open+Source+%26+AI+Innovator" alt="Typing SVG" />
 </h1>
 
+<!-- Animated Wave -->
 <p align="center">
-  🚀 <b>"Code so good, even Stack Overflow copies me!"</b>  
-  💥 <i>Warning: Scrolling further may cause extreme motivation & sudden coding urges</i>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
 ---
 
-# 💫 About Me:
-🔥 **Debugging my way through life, one semicolon at a time**  
-🤖 Always deploying chaos (and code) in production  
-🤝 Let's build *things nobody has built yet*  
-🚀 Hungry for Open Source + AI magic  
-💌 **Shoot me an email:** [brittytino08@gmail.com](mailto:brittytino08@gmail.com)  
-🌐 **Portfolio:** [tinobritty.tech](https://tinobritty.tech)  
-🎮 *SSH into my brain →* `ssh britty@imagination -p 22`  
-⚡ *Side effect of talking to me:* Kernel Panic of Ideas™  
+# 💫 About Me
+🔍 **Exploring the Boundless Codebase**  
+🤖 Debugging, refactoring & deploying since day one  
+🤝 Collaborating on bleeding-edge **Open Source** & **AI-driven projects**  
+🚀 Thrives on challenges that push the limits of code  
+💌 **Reach me**: [brittytino08@gmail.com](mailto:brittytino08@gmail.com)  
+🌐 **Portfolio**: [tinobritty.tech](https://tinobritty.tech)  
+🎮 Root access to creativity → `ssh imagination@port22`  
+⚡ *Warning*: Interaction may cause a **kernel panic of ideas!**  
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://behance.net/brittytino"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
 <a href="https://facebook.com/tinobritty"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
@@ -37,63 +36,54 @@
 ---
 
 # 💻 Tech Arsenal
-> ⚠️ **Disclaimer:** May cause “Bro… Teach me!” DMs
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,aws,firebase,gcp,heroku,netlify,vercel,angular,flutter,nodejs,nextjs,react,redux,mongodb,sql,figma,blender,tensorflow,pytorch,git,github&theme=light" />
+<!-- Keep your badges but make them compact -->
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,nextjs,react,flutter,redux,angular,mongodb,mysql,aws,firebase,gcp,git,github,vercel,netlify,heroku,figma,canva,blender,tensorflow,pytorch" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brittytino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brittytino&theme=tokyonight&hide_border=false" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brittytino&theme=tokyonight" height="180" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittytino&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🚨 Rage-bait / Click-bait Zone:
-- “Your portfolio is useless if it’s just HTML & CSS.”
-- “AI won’t replace developers, but devs using AI will replace YOU.”
-- “If your GitHub is empty, so is your resume.”
-- “Stop learning 5 languages at once. You’re not Thanos.”
-- “You don’t need 5 years of experience. You need 5 good projects.”
-
----
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brittytino&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=brittytino&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributions
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=brittytino&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=brittytino&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=brittytino&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=brittytino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
-## 💰 Sponsor My Caffeine Addiction
+## 💰 Support My Work
 <p align="center">
-<a href="https://buymeacoffee.com/brittytino" target="_blank">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+<a href="https://buymeacoffee.com/brittytino"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
 ---
 
-<!-- ⚡ Made with ❤️ by Tino Britty (brittytino) -->
+<!-- Created with 💙 by Tino Britty -->
