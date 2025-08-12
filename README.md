@@ -13,8 +13,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **Software Engineer** with expertise spanning **frontend, backend, cloud, and Apis**.  
-Currently, I’m pursuing my PG @ **PSG College of Technology**, building solutions that bridge technology, education, and creativity along with learning.
+I'm a **Software Engineer** with experience in **frontend, backend, cloud, and APIs**. Right now, I'm doing my postgrad at **PSG College of Technology**, where I'm working on projects that bring together **tech**, **education**, and **creativity** while **learning** and **growing along the way**.
 
 - 🛠 Specializing in **Next.js, AWS, Effect Js, and Kafka / Frappee**
 - 🌍 Active in **hackathons, open-source projects, and AI-driven innovations**
