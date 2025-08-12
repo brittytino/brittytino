@@ -1,89 +1,90 @@
-<!-- Profile Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello%2C+%3CSneaky+Developers%2F%3E!;I+am+Tino+Britty;Full+Stack+Developer+%26+Digital+Nomad;Open+Source+%26+AI+Innovator" alt="Typing SVG" />
-</h1>
-
-<!-- Animated Wave -->
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <strong>Tino Britty</strong></h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <em>Full Stack Developer | Digital Marketer | Innovator in Tech Education</em>
+</p>
+
+<p align="center">
+  <a href="mailto:brittytino08@gmail.com"><img src="https://img.shields.io/badge/Email-brittytino08%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/brittytino"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://tinobritty.tech"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome"></a>
 </p>
 
 ---
 
-# 💫 About Me
-🔍 **Exploring the Boundless Codebase**  
-🤖 Debugging, refactoring & deploying since day one  
-🤝 Collaborating on bleeding-edge **Open Source** & **AI-driven projects**  
-🚀 Thrives on challenges that push the limits of code  
-💌 **Reach me**: [brittytino08@gmail.com](mailto:brittytino08@gmail.com)  
-🌐 **Portfolio**: [tinobritty.tech](https://tinobritty.tech)  
-🎮 Root access to creativity → `ssh imagination@port22`  
-⚡ *Warning*: Interaction may cause a **kernel panic of ideas!**  
+## 🚀 About Me
+I’m a passionate **Full Stack Developer** with expertise spanning **frontend, backend, cloud, and digital marketing**.  
+Currently, I’m the **COO at Divine Infotech**, building solutions that bridge technology, education, and creativity.
+
+- 🛠 Specializing in **Next.js, AWS, Flutter, and .NET Backend**
+- 🌍 Active in **hackathons, open-source projects, and AI-driven innovations**
+- 📈 Proven record in **business growth, product strategy, and student engagement**
+- 💡 Believer in “Code it, ship it, improve it” — **agility is my superpower**.
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://behance.net/brittytino"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-<a href="https://facebook.com/tinobritty"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-<a href="https://instagram.com/brittytino"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/brittytino"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@brittytino"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-<a href="https://x.com/tinobritty"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-<a href="https://codepen.io/brittytino"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" /></a>
+## 🌐 Connect with Me
+<p>
+  <a href="https://behance.net/brittytino"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
+  <a href="https://facebook.com/tinobritty"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/brittytino"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@brittytino"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/tinobritty"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://codepen.io/brittytino"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" /></a>
 </p>
 
 ---
 
-# 💻 Tech Arsenal
+## 🛠 Tech Expertise
 <p align="center">
-<!-- Keep your badges but make them compact -->
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,nextjs,react,flutter,redux,angular,mongodb,mysql,aws,firebase,gcp,git,github,vercel,netlify,heroku,figma,canva,blender,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,nextjs,react,nodejs,flutter,aws,gcp,firebase,netlify,vercel,mongodb,postgres,redux,threejs,figma,canva,blender" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brittytino&theme=tokyonight" height="180" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittytino&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brittytino&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=brittytino&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brittytino&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+## 📌 Highlighted Projects
+- **🚀 [Portfolio Website](https://tinobritty.tech)** – Showcasing my work, skills, and impact
+- **📱 Mobile App for Gym Owners** – Cross-platform fitness management solution
+- **💻 eCommerce Clothing Store** – Built with **Next.js** & **Neon Database**
+
+---
+
+## 💡 Random Developer Insight
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔝 Top Contributions
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=brittytino&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+## 🤝 Open for Collaboration
+Looking to work on:
+- AI & ML Integrations
+- Full Stack Web Apps
+- Cloud & DevOps Projects
+- Scalable SaaS Solutions
 
----
-
-[![](https://visitcount.itsvg.in/api?id=brittytino&icon=0&color=0)](https://visitcount.itsvg.in)
+💌 **Drop me an email** at [brittytino08@gmail.com](mailto:brittytino08@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/brittytino).
 
 ---
 
 ## 💰 Support My Work
+<a href="https://buymeacoffee.com/brittytino"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+
 <p align="center">
-<a href="https://buymeacoffee.com/brittytino"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=brittytino&style=for-the-badge&color=blue" />
 </p>
-
----
-
-<!-- Created with 💙 by Tino Britty -->
