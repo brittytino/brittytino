@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <strong>Tino Britty</strong></h1>
+<h1 align="center">👋 Hyy, Hi... I'm <strong>Tino Britty</strong></h1>
 <p align="center">
-  <em>Full Stack Developer | Digital Marketer | Innovator in Tech Education</em>
+  <em> Full Stack Developer | Content Creator | Freelancer </em>
 </p>
 
 <p align="center">
