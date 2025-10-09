@@ -31,7 +31,7 @@ Software engineer grinding frontend, backend, cloud, APIs. Doing postgrad at PSG
 
 ## Tech Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,,nextjs,react,nodejs,aws,gcp,firebase,vercel,postgres,threejs,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nextjs,react,nodejs,aws,gcp,firebase,vercel,postgres,threejs,figma" />
 </p>
 
 ---
