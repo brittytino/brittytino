@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hyy, Hi... I'm <strong>Tino Britty</strong></h1>
+<h1 align="center">Yo, I'm <strong>Tino Britty</strong></h1>
 <p align="center">
-  <em> Full Stack Developer | Content Creator | Freelancer </em>
+  <em> Open Source Contributor | Freelancer </em>
 </p>
 
 <p align="center">
@@ -13,12 +13,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **Software Engineer** with experience in **frontend, backend, cloud, and APIs**. Right now, I'm doing my postgrad at **PSG College of Technology**, where I'm working on projects that bring together **tech**, **education**, and **creativity** while **learning** and **growing along the way**.
-
-- 🛠 Specializing in **Next.js, AWS, Effect Js, and Kafka / Frappee**
-- 🌍 Active in **hackathons, open-source projects, and AI-driven innovations**
-- 📈 Proven record in **nothing but and easy interaction**
-- 💡 Believer in “Code it, ship it, improve it” — **vibe coding is my superpower**.
+Software engineer grinding frontend, backend, cloud, APIs. Doing postgrad at PSG Tech, building my vision in tech, education, creativity. Still learning, but contributing to open source now. Specialize in Next.js, AWS, Effect.js, Kafka/Frappe. Hackathons, AI stuff. Code it, ship it, fix the damn bugs later. Vibe coding? Yeah, that's my jam.
 
 ---
 
@@ -49,13 +44,6 @@ I'm a **Software Engineer** with experience in **frontend, backend, cloud, and A
 
 ---
 
-## 📌 Highlighted Projects
-- **🚀 [Portfolio Website](https://tinobritty.tech)** – Showcasing my work, skills, and impact
-- **📱 Mobile App for Gym Owners** – Cross-platform fitness management solution
-- **💻 eCommerce Clothing Store** – Built with **Next.js** & **Neon Database**
-
----
-
 ## 💡 Random Developer Insight
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -63,19 +51,12 @@ I'm a **Software Engineer** with experience in **frontend, backend, cloud, and A
 
 ---
 
-## 🤝 Open for Collaboration
-Looking to work on:
-- AI & ML Integrations
-- Full Stack Web Apps
-- Cloud & DevOps Projects
-- Scalable SaaS Solutions
+## 🤝 Up for Collabs
+AI/ML integrations, full stack apps, cloud/DevOps, SaaS. 
 
-💌 **Drop me an email** at [brittytino08@gmail.com](mailto:brittytino08@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/brittytino).
+**Hit me up if it's worth my time** at [brittytino08@gmail.com](mailto:brittytino08@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/brittytino).
 
 ---
-
-## 💰 Support My Work
-<a href="https://buymeacoffee.com/brittytino"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brittytino&style=for-the-badge&color=blue" />
