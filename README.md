@@ -12,12 +12,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 Software engineer grinding frontend, backend, cloud, APIs. Doing postgrad at PSG Tech, building my vision in tech, education, creativity. Still learning, but contributing to open source now. Specialize in Next.js, AWS, Effect.js, Kafka/Frappe. Hackathons, AI stuff. Code it, ship it, fix the damn bugs later. Vibe coding? Yeah, that's my jam.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p>
   <a href="https://behance.net/brittytino"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
   <a href="https://facebook.com/tinobritty"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
@@ -29,29 +29,29 @@ Software engineer grinding frontend, backend, cloud, APIs. Doing postgrad at PSG
 
 ---
 
-## 🛠 Tech Expertise
+## Tech Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,nextjs,react,nodejs,flutter,aws,gcp,firebase,netlify,vercel,mongodb,postgres,redux,threejs,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,,nextjs,react,nodejs,aws,gcp,firebase,vercel,postgres,threejs,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!--## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brittytino&theme=tokyonight&hide_border=true" height="170" />
-</p>
+</p> -->
 
 ---
 
-## 💡 Random Developer Insight
+<!--## Random Developer Insight
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
-## 🤝 Up for Collabs
+## Up for Collabs
 AI/ML integrations, full stack apps, cloud/DevOps, SaaS. 
 
 **Hit me up if it's worth my time** at [brittytino08@gmail.com](mailto:brittytino08@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/brittytino).
