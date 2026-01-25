@@ -46,12 +46,7 @@ I believe good software is easy to understand, easy to change, and built with pu
 ## Contribution Consistency
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="http://github-readme-streak-stats.herokuapp.com?user=brittytino&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Contribution Streak"
-    />
-  </a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brittytino&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
