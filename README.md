@@ -11,8 +11,8 @@
   <a href="https://linkedin.com/in/brittytino">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://tinobritty.tech">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome" />
+  <a href="https://tinobritty.me">
+    <img src="https://img.shields.io/badge/Portfolio-tinobritty.me-green?style=flat-square&logo=google-chrome" />
   </a>
 </p>
 
@@ -21,11 +21,11 @@
 ## About Me
 
 I am a software engineer focused on building clean, scalable, and reliable applications.  
-My experience spans frontend, backend, and cloud systems, with an emphasis on simple design and long-term maintainability.
+I work across frontend, backend, and cloud systems, with attention to simplicity, clarity, and long-term maintenance.
 
-I am currently pursuing postgraduate studies at PSG Tech while contributing to open source and working on real-world projects as a freelancer.
+I am currently pursuing postgraduate studies at PSG Tech while contributing to open source projects and working as a freelancer. I enjoy building practical solutions and improving systems through iteration.
 
-I believe good software is easy to understand, easy to change, and built with purpose.
+I value readable code, stable architecture, and steady progress.
 
 ---
 
@@ -35,24 +35,17 @@ I believe good software is easy to understand, easy to change, and built with pu
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nextjs,nodejs,aws,gcp,firebase,vercel,postgres,threejs,figma" />
 </p>
 
-**Frontend**: React, Next.js, Three.js  
-**Backend**: Node.js, Java, REST APIs  
-**Cloud & DevOps**: AWS, GCP, Firebase, Vercel  
-**Data & Systems**: PostgreSQL, Kafka, Frappe  
-**Design**: Figma  
+**Frontend:** React, Next.js, Three.js  
+**Backend:** Node.js, Java, REST APIs  
+**Cloud & DevOps:** AWS, GCP, Firebase, Vercel  
+**Data & Systems:** PostgreSQL, Kafka, Frappe  
+**Design:** Figma  
 
 ---
 
-## Contribution Consistency
+## Contributions & Activity
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brittytino&theme=dark" alt="GitHub Streak" /></a>
-</p>
-
----
-
-## GitHub Overview
-
+<!-- === GitHub Stats (Stable & Always Working) === -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&hide_border=true"
@@ -60,15 +53,24 @@ I believe good software is easy to understand, easy to change, and built with pu
   />
 </p>
 
+<!-- === Contribution Summary Card === -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittytino&theme=tokyonight"
   />
 </p>
 
+<!-- === Contribution Calendar === -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brittytino&theme=tokyonight&utcOffset=5"
+    height="180"
+  />
+</p>
+
 ---
 
-## Activity
+## Development Activity
 
 <p align="center">
   <img 
@@ -80,13 +82,13 @@ I believe good software is easy to understand, easy to change, and built with pu
 
 ## Open to Collaboration
 
-I am open to:
+I am open to working on:
 - Full-stack web applications  
 - AI and ML integrations  
 - Cloud and DevOps projects  
-- SaaS and internal platforms  
+- SaaS platforms and internal tools  
 
-I value clarity, realistic scope, and meaningful outcomes.
+I value clear scope, honest timelines, and meaningful outcomes.
 
 📩 **Email:** [brittytino08@gmail.com](mailto:brittytino08@gmail.com)  
 🔗 **LinkedIn:** https://linkedin.com/in/brittytino  
