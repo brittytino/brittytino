@@ -18,19 +18,17 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
 ## About Me
 
-I am a software engineer focused on building clean, reliable, and scalable web applications.  
-My work covers frontend, backend, and cloud systems, with an emphasis on maintainability and practical design.
+I am a software engineer focused on building clean, scalable, and reliable applications.  
+My experience spans frontend, backend, and cloud systems, with an emphasis on simple design and long-term maintainability.
 
-I am currently pursuing postgraduate studies at PSG Tech while contributing to open source projects and working as a freelancer. I value clarity in code, strong fundamentals, and steady improvement through real-world projects.
+I am currently pursuing postgraduate studies at PSG Tech while contributing to open source and working on real-world projects as a freelancer.
 
-I prefer simple solutions that work well over complex ideas that do not ship.
+I believe good software is easy to understand, easy to change, and built with purpose.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 ## Tech Stack
 
 <p align="center">
@@ -45,14 +43,19 @@ I prefer simple solutions that work well over complex ideas that do not ship.
 
 ---
 
-<!-- ================= STREAK ================= -->
 ## Contribution Consistency
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brittytino" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="http://github-readme-streak-stats.herokuapp.com?user=brittytino&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
+</p>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
 ## GitHub Overview
 
 <p align="center">
@@ -70,7 +73,6 @@ I prefer simple solutions that work well over complex ideas that do not ship.
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
 ## Activity
 
 <p align="center">
@@ -81,23 +83,21 @@ I prefer simple solutions that work well over complex ideas that do not ship.
 
 ---
 
-<!-- ================= COLLAB ================= -->
 ## Open to Collaboration
 
-I am open to working on:
+I am open to:
 - Full-stack web applications  
 - AI and ML integrations  
 - Cloud and DevOps projects  
-- SaaS platforms and internal tools  
+- SaaS and internal platforms  
 
-I value clear goals, realistic timelines, and meaningful impact.
+I value clarity, realistic scope, and meaningful outcomes.
 
 📩 **Email:** [brittytino08@gmail.com](mailto:brittytino08@gmail.com)  
 🔗 **LinkedIn:** https://linkedin.com/in/brittytino  
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brittytino&style=for-the-badge&color=blue" />
 </p>
