@@ -1,63 +1,110 @@
-<!-- Profile Header -->
-<h1 align="center">Yo, I'm <strong>Tino Britty</strong></h1>
+<!-- ================= PROFILE HEADER ================= -->
+<h1 align="center">Tino Britty</h1>
 <p align="center">
-  <em> Open Source Contributor | Freelancer </em>
+  <em>Software Engineer · Open Source Contributor · Freelancer</em>
 </p>
 
 <p align="center">
-  <a href="mailto:brittytino08@gmail.com"><img src="https://img.shields.io/badge/Email-brittytino08%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/brittytino"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://tinobritty.tech"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome"></a>
+  <a href="mailto:brittytino08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/brittytino">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://tinobritty.tech">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome" />
+  </a>
 </p>
 
 ---
 
+<!-- ================= ABOUT ================= -->
 ## About Me
-Software engineer grinding frontend, backend, cloud, APIs. Doing postgrad at PSG Tech, building my vision in tech, education, creativity. Still learning, but contributing to open source now. Specialize in Next.js, AWS, Effect.js, Kafka/Frappe. Hackathons, AI stuff. Code it, ship it, fix the damn bugs later. Vibe coding? Yeah, that's my jam.
+
+I am a software engineer focused on building clean, reliable, and scalable web applications.  
+My work covers frontend, backend, and cloud systems, with an emphasis on maintainability and practical design.
+
+I am currently pursuing postgraduate studies at PSG Tech while contributing to open source projects and working as a freelancer. I value clarity in code, strong fundamentals, and steady improvement through real-world projects.
+
+I prefer simple solutions that work well over complex ideas that do not ship.
 
 ---
 
-## Connect with Me
-<p>
-  <a href="https://behance.net/brittytino"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-  <a href="https://facebook.com/tinobritty"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/brittytino"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@brittytino"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-  <a href="https://x.com/tinobritty"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://codepen.io/brittytino"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" /></a>
+<!-- ================= TECH STACK ================= -->
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nextjs,nodejs,aws,gcp,firebase,vercel,postgres,threejs,figma" />
+</p>
+
+**Frontend**: React, Next.js, Three.js  
+**Backend**: Node.js, Java, REST APIs  
+**Cloud & DevOps**: AWS, GCP, Firebase, Vercel  
+**Data & Systems**: PostgreSQL, Kafka, Frappe  
+**Design**: Figma  
+
+---
+
+<!-- ================= STREAK ================= -->
+## Contribution Consistency
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=brittytino&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
 </p>
 
 ---
 
-## Tech Expertise
+<!-- ================= GITHUB STATS ================= -->
+## GitHub Overview
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nextjs,react,nodejs,aws,gcp,firebase,vercel,postgres,threejs,figma" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittytino&theme=tokyonight"
+  />
 </p>
 
 ---
 
-<!--## GitHub Stats
+<!-- ================= ACTIVITY GRAPH ================= -->
+## Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brittytino&theme=tokyonight&hide_border=true" height="170" />
-</p> -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=brittytino&theme=tokyo-night&hide_border=true"
+  />
+</p>
 
 ---
 
-<!--## Random Developer Insight
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p> -->
+<!-- ================= COLLAB ================= -->
+## Open to Collaboration
+
+I am open to working on:
+- Full-stack web applications  
+- AI and ML integrations  
+- Cloud and DevOps projects  
+- SaaS platforms and internal tools  
+
+I value clear goals, realistic timelines, and meaningful impact.
+
+📩 **Email:** [brittytino08@gmail.com](mailto:brittytino08@gmail.com)  
+🔗 **LinkedIn:** https://linkedin.com/in/brittytino  
 
 ---
 
-## Up for Collabs
-AI/ML integrations, full stack apps, cloud/DevOps, SaaS. 
-
-**Hit me up if it's worth my time** at [brittytino08@gmail.com](mailto:brittytino08@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/brittytino).
-
----
-
+<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brittytino&style=for-the-badge&color=blue" />
 </p>
