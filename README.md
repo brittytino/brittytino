@@ -1,124 +1,132 @@
-# Hi, I’m Tino 👋
+# Tino
 
-📍 India  
-💻 Software Engineer · Open Source Contributor  
-🎓 Postgraduate Student @ PSG Tech  
+**Software Engineer · Open Source Contributor · Postgraduate @ PSG Tech**  
+India  
 
-🧠 Building reliable systems across backend, web, Android, and developer tooling.  
-🔧 Focused on maintainability, clarity, and software that does not rot over time.
+I build reliable systems across backend, web, Android, and developer tooling.
 
----
-
-## Current Projects 🚀
-
-- 🧩 **AutoMQ (Fork & Contributions)**  
-  Diskless Kafka-compatible messaging system built on object storage with multi-AZ scalability.  
-  _Java · Distributed Systems · Cloud_
-
-- 🛟 **rescuee**  
-  Type-safe toolkit for error handling, runtime validation, and database access in TypeScript apps.  
-  _TypeScript · npm · Runtime Validation_
-
-- 🔗 **Podlink**  
-  Small accountability pods with real-time chat, streaks, crisis tools, and AI-assisted moderation.  
-  _Next.js · TypeScript · PostgreSQL · Socket.IO_
-
-- 🕵️ **Cyber SOP Assistant**  
-  Fully local cybercrime SOP assistant for India using RAG-based workflows.  
-  Designed for offline-first operation with zero cloud dependency.  
-  _Python · FastAPI · React · Ollama_
-
-- 🛡️ **Guardian Launcher**  
-  Android launcher for children (3–18) with strict, parent-enforced device control.  
-  Offline-first. No bypass paths.  
-  _Kotlin · Jetpack Compose · Android_
-
-- 🎯 **t_launcher**  
-  Minimal Android launcher built for focus and reduced distraction.  
-  _Kotlin · Android_
-
-- 🧑‍💼 **psgmx-flutter**  
-  High-performance placement portal with role-based access and real-time database sync.  
-  _Flutter · Supabase · PostgreSQL_
-
-- 📚 **MCA Repository**  
-  Curated academic materials and lab exercises organized for long-term reference.  
-  _Documentation · Open Source_
+My focus:
+- Maintainable architecture
+- Clear interfaces
+- Predictable failure modes
+- Software that remains readable years later
 
 ---
 
-## Open Source 🌍
+## Current Projects
 
-I actively maintain and contribute to open-source software.
+### HackTheBox  
+Practical security labs and red-team style experimentation focused on exploitation, privilege escalation, and system hardening.  
+Domain: Security Engineering  
 
-I care about:
-- Stable, boring correctness  
-- Clear APIs and documentation  
-- Software that remains readable years later  
-- Systems that fail predictably instead of mysteriously  
+🔗 https://github.com/YOUR_GITHUB_USERNAME/hackthebox
+
+
+### fkmeup  
+Experimental project exploring system-level behavior and low-level abstractions. Built as a sandbox for architectural experimentation and tooling.  
+
+🔗 https://github.com/YOUR_GITHUB_USERNAME/fkmeup
+
+
+### Patchwork  
+Structured experimentation repository for modular system design patterns and architecture refactoring exercises.  
+
+🔗 https://github.com/YOUR_GITHUB_USERNAME/patchwork
+
+
+### psgmx-flutter  
+High-performance placement portal with role-based access control and real-time database sync.  
+Stack: Flutter · Supabase · PostgreSQL  
+
+🔗 https://github.com/YOUR_GITHUB_USERNAME/psgmx-flutter
+
+
+### t_launcher  
+Minimal Android launcher designed to reduce distraction and improve focus.  
+Stack: Kotlin · Android  
+
+🔗 https://github.com/YOUR_GITHUB_USERNAME/t_launcher
+
 
 ---
 
-## Tech Stack 🧰
+## NPM Package
 
-**Languages**  
+### rescuee  
+Type-safe toolkit for:
+- Error handling
+- Runtime validation
+- Safer database interaction patterns in TypeScript applications  
+
+Stack: TypeScript  
+
+🔗 https://www.npmjs.com/package/rescuee
+
+
+---
+
+## Open Source Contributions
+
+I contribute to projects that value engineering discipline and architectural clarity.
+
+- **AutoMQ** – Kafka-compatible diskless messaging system  
+- **Transformers** – Model and tooling ecosystem  
+- **Ladybird** – Independent web browser engine initiative  
+
+Contribution areas include:
+- Bug fixes  
+- Documentation improvements  
+- Refactoring  
+- Architectural discussions  
+
+
+---
+
+## Hardware + Software
+
+### Wiper  
+Data wiping tool built with emphasis on secure deletion workflows and predictable system behavior.  
+Designed for reliability and offline use.
+
+
+---
+
+## Technical Stack
+
+### Languages
 Java · TypeScript · JavaScript · Kotlin · Dart · Python  
 
-**Frontend**  
+### Frontend
 React · Next.js · Flutter · Jetpack Compose  
 
-**Backend & Systems**  
+### Backend & Systems
 Node.js · FastAPI · Kafka · REST APIs · PostgreSQL  
 
-**Cloud & Infrastructure**  
+### Cloud & Infrastructure
 AWS · GCP · Supabase · Firebase · Vercel · Docker  
 
-**Design**  
-Figma  
+---
+
+## Engineering Focus
+
+- Distributed systems and backend-heavy architecture  
+- AI-assisted workflows that reduce complexity, not increase it  
+- Long-term maintainability of open-source projects  
+- System design and infrastructure clarity  
 
 ---
 
-## GitHub Activity 📊
+## Philosophy
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=brittytino&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
+> Readable code scales better than clever code.
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittytino&theme=tokyonight"
-  />
-</p>
+I build tools to solve real problems.  
+Then I refine them until they are safe, understandable, and useful for others.
 
 ---
 
-## What I’m Doing Now 🧭
+## Contact
 
-- Building backend-heavy systems and internal tools  
-- Exploring AI-assisted workflows where they **reduce** complexity  
-- Maintaining open-source projects with long-term scope  
-- Studying system design, distributed systems, and architecture  
-
----
-
-## Philosophy 🧠
-
-> “Readable code scales better than clever code.”  
-> I build tools to solve my own problems, then refine them until they are useful to others.
-
----
-
-## Connect 🔗
-
-📧 **Email:** brittytino08@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/brittytino  
-🌐 **Website:** https://tinobritty.me  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brittytino&style=flat-square&color=6A5ACD" />
-</p>
+Email: brittytino08@gmail.com  
+LinkedIn: https://linkedin.com/in/brittytino  
+Website: https://tinobritty.me
