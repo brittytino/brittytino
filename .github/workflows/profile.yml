@@ -1,0 +1,32 @@
+name: Refresh profile
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/profile.yml']
+permissions:
+  contents: write
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate live profile sections
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/update-profile.mjs
+      - name: Commit refreshed profile
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/contributions.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh daily profile'
+            git push
+          fi

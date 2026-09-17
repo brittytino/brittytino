@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Tino Britty: building things, breaking assumptions">
+<rect width="1200" height="320" rx="24" fill="#101320"/>
+<circle cx="1060" cy="100" r="170" fill="#202340"/><circle cx="1110" cy="260" r="110" fill="#33234b"/>
+<g font-family="monospace"><text x="54" y="55" font-size="16" fill="#a3e635">● BRITTYTINO / DEV LOG</text>
+<text x="54" y="135" font-size="64" font-weight="bold" fill="#f5f3ff">build. break. understand.</text>
+<text x="54" y="190" font-size="25" fill="#c4b5fd">Tino Britty — software, systems &amp; side quests.</text>
+<text x="54" y="265" font-size="17" fill="#a3e635">&gt; curiosity --always-on <tspan fill="#f5f3ff">_</tspan></text></g>
+</svg>
