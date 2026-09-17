@@ -28,31 +28,31 @@ const c = result.data.user.contributionsCollection;
 const calendar = c.contributionCalendar;
 const prs = await api(`search/issues?q=${encodeURIComponent(`is:pr is:public author:${login}`)}&sort=updated&order=desc&per_page=5`);
 if (prs.incomplete_results) throw new Error('Incomplete PR search; retaining previous profile');
-const colors = { NONE:'#23283a', FIRST_QUARTILE:'#44572d', SECOND_QUARTILE:'#668f35', THIRD_QUARTILE:'#91bf43', FOURTH_QUARTILE:'#bef264' };
+const colors = { NONE:'#23283a', FIRST_QUARTILE:'#0e4429', SECOND_QUARTILE:'#006d32', THIRD_QUARTILE:'#26a641', FOURTH_QUARTILE:'#39d353' };
 const squares = calendar.weeks.flatMap((w,x) => w.contributionDays.map(d => `<rect x="${24+x*17}" y="${68+d.weekday*17}" width="13" height="13" rx="3" fill="${colors[d.contributionLevel] || colors.NONE}"><title>${d.date}: ${d.contributionCount} contributions</title></rect>`)).join('');
 const width = Math.max(760, calendar.weeks.length*17+48);
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="224" viewBox="0 0 ${width} 224" role="img" aria-label="GitHub contributions over the last year"><rect width="100%" height="100%" rx="16" fill="#101320"/><text x="24" y="36" fill="#bef264" font-family="monospace" font-size="18">THE COMMIT GARDEN / ${calendar.totalContributions} contributions</text>${squares}<text x="24" y="206" fill="#b8b4cc" font-family="monospace" font-size="12">Last year · GitHub contribution calendar · brighter = more activity</text></svg>\n`;
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="224" viewBox="0 0 ${width} 224" role="img" aria-label="GitHub contributions over the last year"><rect width="100%" height="100%" rx="16" fill="#0d1117"/><text x="24" y="36" fill="#58a6ff" font-family="monospace" font-size="18">GitHub Activity / ${calendar.totalContributions} contributions</text>${squares}<text x="24" y="206" fill="#8b949e" font-family="monospace" font-size="12">Last year · GitHub contribution calendar · brighter = more activity</text></svg>\n`;
 const languages = new Map();
 for (const r of originals) if (r.language) languages.set(r.language, (languages.get(r.language)||0)+1);
 const live = [
-  `Updated **${new Date().toISOString().slice(0,10)} UTC** · refreshed daily by my profile bot.`,
+  `Updated **${new Date().toISOString().slice(0,10)} UTC** · updated daily.`,
   '',
   '| Last-year contributions | Commits | Pull requests | Issues | PR reviews |',
   '| ---: | ---: | ---: | ---: | ---: |',
   `| ${calendar.totalContributions} | ${c.totalCommitContributions} | ${c.totalPullRequestContributions} | ${c.totalIssueContributions} | ${c.totalPullRequestReviewContributions} |`,
   '',
-  '![Contribution garden](assets/contributions.svg)',
+  '![GitHub contribution history](assets/contributions.svg)',
   '',
-  '#### ⭐ Top repositories',
+  '### Top Repositories',
   'Public, original, non-archived projects; ranked by stars, then latest push.',
   '',
-  '| Project | What it does | Language | Stars |',
+  '| Project | Description | Language | Stars |',
   '| :--- | :--- | :--- | ---: |',
-  ...originals.slice(0,5).map(r => `| [${escape(r.name)}](${r.html_url}) | ${escape(r.description || 'An experiment from the workbench.')} | ${escape(r.language || '—')} | ${r.stargazers_count} |`),
+  ...originals.slice(0,5).map(r => `| [${escape(r.name)}](${r.html_url}) | ${escape(r.description || 'No description provided.')} | ${escape(r.language || '—')} | ${r.stargazers_count} |`),
   '',
   `**Languages across original repos:** ${[...languages].sort((a,b)=>b[1]-a[1]).slice(0,6).map(([l,n])=>`${escape(l)} (${n})`).join(' · ') || 'No language data yet'}. Counts are repositories, not proficiency.`,
   '',
-  '#### 🔀 Recent public pull requests',
+  '### Recent Pull Requests',
   ...prs.items.map(p => `- [${escape(p.title)}](${p.html_url}) — ${escape(p.repository_url.split('/').slice(-2).join('/'))} · ${p.pull_request?.merged_at ? 'merged' : p.state}`),
   ...(prs.items.length ? [] : ['No public pull requests found yet.']),
   '',
