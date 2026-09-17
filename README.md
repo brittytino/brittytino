@@ -22,7 +22,35 @@ const tino = {
 ### 📡 Fresh from GitHub
 
 <!-- LIVE:START -->
-The daily profile bot is warming up. [Explore my repositories →](https://github.com/brittytino?tab=repositories)
+Updated **2026-09-17 UTC** · refreshed daily by my profile bot.
+
+| Last-year contributions | Commits | Pull requests | Issues | PR reviews |
+| ---: | ---: | ---: | ---: | ---: |
+| 1524 | 776 | 27 | 5 | 0 |
+
+![Contribution garden](assets/contributions.svg)
+
+#### ⭐ Top repositories
+Public, original, non-archived projects; ranked by stars, then latest push.
+
+| Project | What it does | Language | Stars |
+| :--- | :--- | :--- | ---: |
+| [psgmx](https://github.com/brittytino/psgmx) | High-performance placement portal featuring role-based access control, PostgreSQL real-time sync, and automated analytics. Powered by Flutter, Supabase, and Dart. | TypeScript | 19 |
+| [patchwork](https://github.com/brittytino/patchwork) | Patchwork is an open-source Android app designed to enhance productivity and creativity. It features a modern UI, customizable tools, and seamless integration with popular platforms.  | Kotlin | 10 |
+| [t\_launcher](https://github.com/brittytino/t_launcher) | Minimal Android launcher for focus and productivity | Kotlin | 8 |
+| [podlink](https://github.com/brittytino/podlink) | PodLink: small accountability pods with real-time chat, streaks, crisis tools, and AI-assisted moderation/matching | TypeScript | 6 |
+| [cyber-sop-assistant](https://github.com/brittytino/cyber-sop-assistant) | A fully local Cybercrime SOP assistant for India, combining a FastAPI backend, React frontend, and Ollama-powered RAG system to provide guidance, resources, and reporting workflows without cloud dependencies. | Python | 4 |
+
+**Languages across original repos:** TypeScript (17) · JavaScript (3) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
+
+#### 🔀 Recent public pull requests
+- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · open
+- [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
+- [feat: add evidence sealing support, implement CryptoJS fallback, and update seal certificate generation](https://github.com/brittytino/acpia/pull/5) — brittytino/acpia · merged
+- [chore: fix docker image registry naming and standardize environment configurations in deployment workflows](https://github.com/brittytino/acpia/pull/4) — brittytino/acpia · merged
+- [fix(police-console): fix TypeScript Set iteration error on Compare tab](https://github.com/brittytino/acpia/pull/3) — brittytino/acpia · merged
+
+<sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
 
 ### 🧪 From the workbench
