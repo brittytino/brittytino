@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-09-21 UTC** · updated daily.
+Updated **2026-09-22 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1511 | 766 | 25 | 4 | 0 |
+| 1517 | 767 | 25 | 4 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -54,8 +54,8 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 **Languages across original repos:** TypeScript (18) · JavaScript (3) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
-- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · open
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
+- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · open
 - [feat: add evidence sealing support, implement CryptoJS fallback, and update seal certificate generation](https://github.com/brittytino/acpia/pull/5) — brittytino/acpia · merged
 - [chore: fix docker image registry naming and standardize environment configurations in deployment workflows](https://github.com/brittytino/acpia/pull/4) — brittytino/acpia · merged
 - [fix(police-console): fix TypeScript Set iteration error on Compare tab](https://github.com/brittytino/acpia/pull/3) — brittytino/acpia · merged
