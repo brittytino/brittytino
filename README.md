@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-09-25 UTC** · updated daily.
+Updated **2026-09-26 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1562 | 897 | 80 | 4 | 111 |
+| 1579 | 897 | 80 | 4 | 127 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -46,7 +46,7 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 | Project | Description | Language | Stars |
 | :--- | :--- | :--- | ---: |
 | [psgmx](https://github.com/brittytino/psgmx) | High-performance placement portal featuring role-based access control, PostgreSQL real-time sync, and automated analytics. Powered by Flutter, Supabase, and Dart. | TypeScript | 19 |
-| [patchwork](https://github.com/brittytino/patchwork) | Patchwork is an open-source Android app designed to enhance productivity and creativity. It features a modern UI, customizable tools, and seamless integration with popular platforms.  | Kotlin | 10 |
+| [patchwork](https://github.com/brittytino/patchwork) | Patchwork is an open-source Android app designed to enhance productivity and creativity. It features a modern UI, customizable tools, and seamless integration with popular platforms.  | Kotlin | 11 |
 | [t\_launcher](https://github.com/brittytino/t_launcher) | Minimal Android launcher for focus and productivity | Kotlin | 8 |
 | [podlink](https://github.com/brittytino/podlink) | PodLink: small accountability pods with real-time chat, streaks, crisis tools, and AI-assisted moderation/matching | TypeScript | 6 |
 | [cyber-sop-assistant](https://github.com/brittytino/cyber-sop-assistant) | A fully local Cybercrime SOP assistant for India, combining a FastAPI backend, React frontend, and Ollama-powered RAG system to provide guidance, resources, and reporting workflows without cloud dependencies. | Python | 4 |
