@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-09-26 UTC** · updated daily.
+Updated **2026-09-27 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1579 | 897 | 80 | 4 | 127 |
+| 1593 | 911 | 80 | 4 | 127 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -45,13 +45,13 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 
 | Project | Description | Language | Stars |
 | :--- | :--- | :--- | ---: |
-| [psgmx](https://github.com/brittytino/psgmx) | High-performance placement portal featuring role-based access control, PostgreSQL real-time sync, and automated analytics. Powered by Flutter, Supabase, and Dart. | TypeScript | 19 |
+| [psgmx](https://github.com/brittytino/psgmx) | High-performance placement portal featuring role-based access control, PostgreSQL real-time sync, and automated analytics. Powered by Flutter, Supabase, and Dart. | TypeScript | 20 |
 | [patchwork](https://github.com/brittytino/patchwork) | Patchwork is an open-source Android app designed to enhance productivity and creativity. It features a modern UI, customizable tools, and seamless integration with popular platforms.  | Kotlin | 11 |
 | [t\_launcher](https://github.com/brittytino/t_launcher) | Minimal Android launcher for focus and productivity | Kotlin | 8 |
 | [podlink](https://github.com/brittytino/podlink) | PodLink: small accountability pods with real-time chat, streaks, crisis tools, and AI-assisted moderation/matching | TypeScript | 6 |
 | [cyber-sop-assistant](https://github.com/brittytino/cyber-sop-assistant) | A fully local Cybercrime SOP assistant for India, combining a FastAPI backend, React frontend, and Ollama-powered RAG system to provide guidance, resources, and reporting workflows without cloud dependencies. | Python | 4 |
 
-**Languages across original repos:** TypeScript (18) · JavaScript (3) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
+**Languages across original repos:** TypeScript (19) · JavaScript (3) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
 - [chore(repo): establish enterprise branching model and review governance (S6-TN-02)](https://github.com/infinitica-org/smart/pull/325) — infinitica-org/smart · merged
