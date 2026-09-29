@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-09-28 UTC** · updated daily.
+Updated **2026-09-29 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1587 | 907 | 78 | 4 | 127 |
+| 1590 | 779 | 23 | 4 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -54,11 +54,11 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 **Languages across original repos:** TypeScript (19) · JavaScript (3) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
-- [chore(repo): establish enterprise branching model and review governance (S6-TN-02)](https://github.com/infinitica-org/smart/pull/325) — infinitica-org/smart · merged
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
-- [Dev](https://github.com/infinitica-org/smart/pull/313) — infinitica-org/smart · merged
-- [chore(repo): restrict qa merges to brittytino](https://github.com/infinitica-org/smart/pull/300) — infinitica-org/smart · merged
-- [chore(repo): decentralised review model, module-owner-first PR flow (S6-TN-00)](https://github.com/infinitica-org/smart/pull/312) — infinitica-org/smart · merged
+- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · open
+- [feat: add evidence sealing support, implement CryptoJS fallback, and update seal certificate generation](https://github.com/brittytino/acpia/pull/5) — brittytino/acpia · merged
+- [chore: fix docker image registry naming and standardize environment configurations in deployment workflows](https://github.com/brittytino/acpia/pull/4) — brittytino/acpia · merged
+- [fix(police-console): fix TypeScript Set iteration error on Compare tab](https://github.com/brittytino/acpia/pull/3) — brittytino/acpia · merged
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
