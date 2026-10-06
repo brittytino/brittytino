@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-10-05 UTC** · updated daily.
+Updated **2026-10-06 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1589 | 774 | 23 | 4 | 0 |
+| 1590 | 905 | 89 | 4 | 133 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -55,10 +55,10 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 
 ### Recent Pull Requests
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
-- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · open
-- [feat: add evidence sealing support, implement CryptoJS fallback, and update seal certificate generation](https://github.com/brittytino/acpia/pull/5) — brittytino/acpia · merged
-- [chore: fix docker image registry naming and standardize environment configurations in deployment workflows](https://github.com/brittytino/acpia/pull/4) — brittytino/acpia · merged
-- [fix(police-console): fix TypeScript Set iteration error on Compare tab](https://github.com/brittytino/acpia/pull/3) — brittytino/acpia · merged
+- [chore(repo): rename platform to hirekiwi across packages contracts and docs (S8-ARCH-04)](https://github.com/infinitica-org/HireKiwi/pull/419) — infinitica-org/HireKiwi · merged
+- [fix(docs): conditionally apply standalone output to fix Vercel deployment (S8-ARCH-03)](https://github.com/infinitica-org/HireKiwi/pull/417) — infinitica-org/HireKiwi · merged
+- [docs(docs): SmartKiwi branding alignment, AI-DLC doctrine &amp; docs SSOT migration (S8-ARCH-03)](https://github.com/infinitica-org/HireKiwi/pull/416) — infinitica-org/HireKiwi · merged
+- [feat(infra): configure ports, docker, and pnpm runners for 10 apps (S8-ARCH-02)](https://github.com/infinitica-org/HireKiwi/pull/415) — infinitica-org/HireKiwi · merged
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
