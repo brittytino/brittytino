@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-10-16 UTC** · updated daily.
+Updated **2026-10-17 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1633 | 924 | 90 | 4 | 134 |
+| 1642 | 793 | 22 | 4 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -54,11 +54,11 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 **Languages across original repos:** TypeScript (21) · JavaScript (3) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
-- [feat(infra): decouple dev/prod compose and containerize apps independently (S8-TN-01)](https://github.com/infinitica-org/HireKiwi/pull/457) — infinitica-org/HireKiwi · merged
-- [feat(repo): update product name to HireKiwi and add migration check (S8-TN-05)](https://github.com/infinitica-org/HireKiwi/pull/438) — infinitica-org/HireKiwi · merged
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
-- [chore(repo): rename platform to hirekiwi across packages contracts and docs (S8-ARCH-04)](https://github.com/infinitica-org/HireKiwi/pull/419) — infinitica-org/HireKiwi · merged
-- [fix(docs): conditionally apply standalone output to fix Vercel deployment (S8-ARCH-03)](https://github.com/infinitica-org/HireKiwi/pull/417) — infinitica-org/HireKiwi · merged
+- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · open
+- [feat: add evidence sealing support, implement CryptoJS fallback, and update seal certificate generation](https://github.com/brittytino/acpia/pull/5) — brittytino/acpia · merged
+- [chore: fix docker image registry naming and standardize environment configurations in deployment workflows](https://github.com/brittytino/acpia/pull/4) — brittytino/acpia · merged
+- [fix(police-console): fix TypeScript Set iteration error on Compare tab](https://github.com/brittytino/acpia/pull/3) — brittytino/acpia · merged
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
