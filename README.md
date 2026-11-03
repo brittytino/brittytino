@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-02 UTC** · updated daily.
+Updated **2026-11-03 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1700 | 833 | 20 | 3 | 0 |
+| 1703 | 833 | 20 | 3 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -54,9 +54,9 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 **Languages across original repos:** TypeScript (22) · JavaScript (4) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
+- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · closed
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
 - [Feature/initial portal](https://github.com/brittytino/psg-recruitment-portal/pull/1) — brittytino/psg-recruitment-portal · merged
-- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · open
 - [feat: add evidence sealing support, implement CryptoJS fallback, and update seal certificate generation](https://github.com/brittytino/acpia/pull/5) — brittytino/acpia · merged
 - [chore: fix docker image registry naming and standardize environment configurations in deployment workflows](https://github.com/brittytino/acpia/pull/4) — brittytino/acpia · merged
 
