@@ -32,11 +32,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-03 UTC** · updated daily.
+Updated **2026-11-04 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1703 | 833 | 20 | 3 | 0 |
+| 1774 | 904 | 23 | 3 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -51,14 +51,14 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 | [podlink](https://github.com/brittytino/podlink) | PodLink: small accountability pods with real-time chat, streaks, crisis tools, and AI-assisted moderation/matching | TypeScript | 6 |
 | [cyber-sop-assistant](https://github.com/brittytino/cyber-sop-assistant) | A fully local Cybercrime SOP assistant for India, combining a FastAPI backend, React frontend, and Ollama-powered RAG system to provide guidance, resources, and reporting workflows without cloud dependencies. | Python | 4 |
 
-**Languages across original repos:** TypeScript (22) · JavaScript (4) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
+**Languages across original repos:** TypeScript (23) · JavaScript (4) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
+- [fix(marketing): make the Vercel build work](https://github.com/hellomey/turbo/pull/3) — hellomey/turbo · merged
+- [feat: add marketing web app and product blueprint documentation](https://github.com/hellomey/turbo/pull/2) — hellomey/turbo · merged
+- [Phase 1 + Phase 2 core study, design v2, free-tier hosting \[BOLT-0001..0023\]](https://github.com/hellomey/turbo/pull/1) — hellomey/turbo · merged
 - [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · closed
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
-- [Feature/initial portal](https://github.com/brittytino/psg-recruitment-portal/pull/1) — brittytino/psg-recruitment-portal · merged
-- [feat: add evidence sealing support, implement CryptoJS fallback, and update seal certificate generation](https://github.com/brittytino/acpia/pull/5) — brittytino/acpia · merged
-- [chore: fix docker image registry naming and standardize environment configurations in deployment workflows](https://github.com/brittytino/acpia/pull/4) — brittytino/acpia · merged
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
