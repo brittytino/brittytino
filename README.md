@@ -24,7 +24,6 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## Selected Projects
 
 - **[PSGMX](https://github.com/brittytino/psgmx)** — Placement portal with role-based access and real-time data synchronisation.
-- **[Patchwork](https://github.com/brittytino/patchwork)** — Open-source Android application focused on productivity and creativity.
 - **[t_launcher](https://github.com/brittytino/t_launcher)** — Minimal Android launcher designed to reduce distraction.
 - **[PodLink](https://github.com/brittytino/podlink)** — Accountability groups with real-time communication and progress tracking.
 - **[rescuee](https://www.npmjs.com/package/rescuee)** — TypeScript toolkit for runtime validation and structured error handling.
