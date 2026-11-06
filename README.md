@@ -31,11 +31,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-05 UTC** · updated daily.
+Updated **2026-11-06 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1718 | 847 | 23 | 3 | 0 |
+| 1738 | 812 | 23 | 2 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -48,8 +48,9 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 | [t\_launcher](https://github.com/brittytino/t_launcher) | Minimal Android launcher for focus and productivity | Kotlin | 8 |
 | [podlink](https://github.com/brittytino/podlink) | PodLink: small accountability pods with real-time chat, streaks, crisis tools, and AI-assisted moderation/matching | TypeScript | 6 |
 | [cyber-sop-assistant](https://github.com/brittytino/cyber-sop-assistant) | A fully local Cybercrime SOP assistant for India, combining a FastAPI backend, React frontend, and Ollama-powered RAG system to provide guidance, resources, and reporting workflows without cloud dependencies. | Python | 4 |
+| [fossa](https://github.com/brittytino/fossa) | FOSSA is a free, 100% open-source, self-hosted AI engineering and code review platform | TypeScript | 2 |
 
-**Languages across original repos:** TypeScript (22) · JavaScript (4) · Kotlin (2) · Python (2) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
+**Languages across original repos:** TypeScript (22) · JavaScript (4) · Python (2) · Kotlin (1) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
 - [fix(marketing): make the Vercel build work](https://github.com/hellomey/turbo/pull/3) — hellomey/turbo · merged
