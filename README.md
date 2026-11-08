@@ -31,11 +31,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-07 UTC** · updated daily.
+Updated **2026-11-08 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1770 | 864 | 47 | 2 | 9 |
+| 1773 | 864 | 47 | 2 | 9 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -50,7 +50,7 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 | [cyber-sop-assistant](https://github.com/brittytino/cyber-sop-assistant) | A fully local Cybercrime SOP assistant for India, combining a FastAPI backend, React frontend, and Ollama-powered RAG system to provide guidance, resources, and reporting workflows without cloud dependencies. | Python | 4 |
 | [fossa](https://github.com/brittytino/fossa) | FOSSA is a free, 100% open-source, self-hosted AI engineering and code review platform | TypeScript | 2 |
 
-**Languages across original repos:** TypeScript (22) · JavaScript (4) · Python (2) · Kotlin (1) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
+**Languages across original repos:** TypeScript (21) · JavaScript (4) · Python (2) · Kotlin (1) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
 - [fix(docs): escape math syntax in ADR-0009 to prevent MDX prerender ReferenceError](https://github.com/infinitica-org/hellosmart/pull/147) — infinitica-org/hellosmart · merged
