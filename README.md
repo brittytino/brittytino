@@ -31,11 +31,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-10 UTC** · updated daily.
+Updated **2026-11-11 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1768 | 852 | 47 | 2 | 9 |
+| 1769 | 801 | 23 | 2 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -54,10 +54,10 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 
 ### Recent Pull Requests
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · open
-- [fix(docs): escape math syntax in ADR-0009 to prevent MDX prerender ReferenceError](https://github.com/infinitica-org/hellosmart/pull/147) — infinitica-org/hellosmart · merged
-- [fix(docs): escape math syntax in ADR-0009 to prevent MDX prerender ReferenceError](https://github.com/infinitica-org/hellosmart/pull/146) — infinitica-org/hellosmart · merged
-- [chore(release): promote qa to main](https://github.com/infinitica-org/hellosmart/pull/145) — infinitica-org/hellosmart · merged
-- [chore(release): merge dev into qa](https://github.com/infinitica-org/hellosmart/pull/144) — infinitica-org/hellosmart · merged
+- [fix(marketing): make the Vercel build work](https://github.com/hellomey/turbo/pull/3) — hellomey/turbo · merged
+- [feat: add marketing web app and product blueprint documentation](https://github.com/hellomey/turbo/pull/2) — hellomey/turbo · merged
+- [Phase 1 + Phase 2 core study, design v2, free-tier hosting \[BOLT-0001..0023\]](https://github.com/hellomey/turbo/pull/1) — hellomey/turbo · merged
+- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · closed
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
