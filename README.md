@@ -31,11 +31,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-12 UTC** · updated daily.
+Updated **2026-11-13 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1774 | 803 | 23 | 2 | 0 |
+| 1775 | 803 | 24 | 2 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -53,11 +53,11 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 **Languages across original repos:** TypeScript (21) · JavaScript (4) · Python (2) · Kotlin (1) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
+- [chore(crew): 15-agent crew, pinned skills, board and Dec 2 decisions](https://github.com/hellomey/turbo/pull/4) — hellomey/turbo · open
 - [feat(windows): rank coding-agent fallback instead of declaring it](https://github.com/BasedHardware/omi/pull/12430) — BasedHardware/omi · closed
 - [fix(marketing): make the Vercel build work](https://github.com/hellomey/turbo/pull/3) — hellomey/turbo · merged
 - [feat: add marketing web app and product blueprint documentation](https://github.com/hellomey/turbo/pull/2) — hellomey/turbo · merged
 - [Phase 1 + Phase 2 core study, design v2, free-tier hosting \[BOLT-0001..0023\]](https://github.com/hellomey/turbo/pull/1) — hellomey/turbo · merged
-- [chore(clients): suppress unavoidable X509Certificate DN deprecation warnings](https://github.com/AutoMQ/automq/pull/3582) — AutoMQ/automq · closed
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
