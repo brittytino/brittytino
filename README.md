@@ -31,11 +31,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-22 UTC** · updated daily.
+Updated **2026-11-23 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1795 | 800 | 24 | 2 | 0 |
+| 1768 | 787 | 23 | 2 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
