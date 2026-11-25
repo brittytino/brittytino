@@ -31,11 +31,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-24 UTC** · updated daily.
+Updated **2026-11-25 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1833 | 834 | 41 | 2 | 0 |
+| 1865 | 859 | 48 | 2 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -53,11 +53,11 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 **Languages across original repos:** TypeScript (21) · JavaScript (4) · Python (2) · Kotlin (1) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
-- [fix(infra): seed script without nested pnpm (BOLT-0093)](https://github.com/hellomey/turbo/pull/23) — hellomey/turbo · merged
-- [chore(infra): seed-staging script (BOLT-0092)](https://github.com/hellomey/turbo/pull/22) — hellomey/turbo · merged
-- [fix(ci): honest APK release notes (BOLT-0091)](https://github.com/hellomey/turbo/pull/21) — hellomey/turbo · merged
-- [fix(db): normalise pasted DATABASE\_CA (BOLT-0090)](https://github.com/hellomey/turbo/pull/20) — hellomey/turbo · merged
-- [fix(api): debug reason skips blank lines (BOLT-0089)](https://github.com/hellomey/turbo/pull/19) — hellomey/turbo · merged
+- [feat(desk): Ops Desk exam-change review (BOLT-0101)](https://github.com/hellomey/turbo/pull/30) — hellomey/turbo · merged
+- [fix(infra): staff grant SQL creates missing user (BOLT-0100)](https://github.com/hellomey/turbo/pull/29) — hellomey/turbo · merged
+- [feat(infra): Desk + web app hosting via deploy branches (BOLT-0099)](https://github.com/hellomey/turbo/pull/28) — hellomey/turbo · merged
+- [fix(mobile): UUID Idempotency-Keys (BOLT-0098)](https://github.com/hellomey/turbo/pull/27) — hellomey/turbo · merged
+- [fix(api): validate JWT key at boot, derive public key (BOLT-0097)](https://github.com/hellomey/turbo/pull/26) — hellomey/turbo · merged
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
