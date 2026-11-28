@@ -31,11 +31,11 @@ I build reliable systems across backend, web, Android, and developer tooling. My
 ## GitHub Activity
 
 <!-- LIVE:START -->
-Updated **2026-11-27 UTC** · updated daily.
+Updated **2026-11-28 UTC** · updated daily.
 
 | Last-year contributions | Commits | Pull requests | Issues | PR reviews |
 | ---: | ---: | ---: | ---: | ---: |
-| 1942 | 921 | 62 | 2 | 0 |
+| 1955 | 930 | 66 | 2 | 0 |
 
 ![GitHub contribution history](assets/contributions.svg)
 
@@ -53,11 +53,11 @@ Public, original, non-archived projects; ranked by stars, then latest push.
 **Languages across original repos:** TypeScript (21) · JavaScript (4) · Python (2) · Kotlin (1) · HTML (1) · Vue (1). Counts are repositories, not proficiency.
 
 ### Recent Pull Requests
+- [fix(infra,ui): one Vercel deploy per real change; uniform nav (BOLT-0120)](https://github.com/hellomey/turbo/pull/48) — hellomey/turbo · merged
+- [feat(ui): level-road Study Map, still mascots, name and avatar, Listen fix (BOLT-0119)](https://github.com/hellomey/turbo/pull/47) — hellomey/turbo · merged
+- [feat(ui): screens 19-27, desktop page and logo favicon (BOLT-0118)](https://github.com/hellomey/turbo/pull/46) — hellomey/turbo · merged
+- [feat(ui): warm light design from the approved mock-ups (BOLT-0117)](https://github.com/hellomey/turbo/pull/45) — hellomey/turbo · merged
 - [fix(infra): regenerate Prisma client in seed script (BOLT-0116)](https://github.com/hellomey/turbo/pull/44) — hellomey/turbo · merged
-- [feat(games): Daily Spin, solo Confidence Duel, Game Rules &amp; Odds, Play hub (BOLT-0115)](https://github.com/hellomey/turbo/pull/43) — hellomey/turbo · merged
-- [feat(design): Bauhaus theme, SVG art set and bento learning screens (BOLT-0110)](https://github.com/hellomey/turbo/pull/42) — hellomey/turbo · merged
-- [feat(app): Lamplighter story onboarding and Expo Challenge (BOLT-0111)](https://github.com/hellomey/turbo/pull/39) — hellomey/turbo · merged
-- [feat: stall expo challenge and sticker codes (BOLT-0112)](https://github.com/hellomey/turbo/pull/40) — hellomey/turbo · merged
 
 <sub>Contribution counts follow GitHub’s calendar rules and the workflow token’s visibility; they are not a count of every commit ever made. PRs above are the most recently updated public PRs.</sub>
 <!-- LIVE:END -->
